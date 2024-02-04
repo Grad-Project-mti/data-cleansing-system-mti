@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn mido
+          Learn adly
         </a>
       </header>
     </div>
